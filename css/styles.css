@@ -37,3 +37,13 @@ body {
 .navbar-dark {
     background-color: #512da8;
 }
+
+ol li{
+    list-style: none;
+    padding: 11px;
+    background-color: lightgray;
+}
+
+ol {
+    display: flex;
+}
